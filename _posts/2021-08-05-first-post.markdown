@@ -3,11 +3,10 @@ layout: post
 title: ACP（LandingZone方向）考试经验分享
 date: 2021-08-05 15:00:00.000000000 +08:00
 tags: 
- - 博客
- - Jekyll
+ - 考证
+ - 公有云
+ - LandingZone
 ---
-
-#domain/考证  #domain/LandingZone #domain/公有云 #impact/blog
 
 ### 是什么？
 
