@@ -8,9 +8,6 @@ tags:
  - LandingZone
 ---
 
-
-#domain/考证  #domain/LandingZone #domain/公有云 #impact/blog
-
 ### 是什么？
 
 ACP（Alibaba Cloud Certified Professional-LandingZone）阿里云专家认证（企业上云规划师方向）。
