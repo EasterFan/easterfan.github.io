@@ -1,7 +1,7 @@
 #bin/sh
 
 cd /Users/$USER/workspace/common_repo/easterfan.github.io 
-mv _posts/300_Resource/blog/* _posts/
+mv _posts/300-Resource/blog/* _posts/
 
 
 # TODAY=`date +%Y-%m-%d`
