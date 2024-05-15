@@ -2,7 +2,7 @@
 
 cd /Users/$USER/workspace/common_repo/easterfan.github.io 
 mv _posts/300-Resource/blog/* _posts/
-rm -rf _posts/300-Resource/blog
+rm -rf _posts/300-Resource
 
 # TODAY=`date +%Y-%m-%d`
 # ORIGIN=`ls _posts | grep -v '^[0-9]' | head -n 1`
