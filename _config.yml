@@ -12,6 +12,7 @@ nav:
 # 不要动这个配置：根据tag生成页面
 plugins:
   - jekyll-archives
+  - jekyll-feed
 # 不要动这个配置：根据tag生成页面
 jekyll-archives:
   enabled: ['tags']
